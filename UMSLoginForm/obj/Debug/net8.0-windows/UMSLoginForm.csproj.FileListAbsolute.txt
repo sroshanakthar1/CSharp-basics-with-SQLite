@@ -1,0 +1,16 @@
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\bin\Debug\net8.0-windows\UMSLoginForm.exe
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\bin\Debug\net8.0-windows\UMSLoginForm.deps.json
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\bin\Debug\net8.0-windows\UMSLoginForm.runtimeconfig.json
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\bin\Debug\net8.0-windows\UMSLoginForm.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\bin\Debug\net8.0-windows\UMSLoginForm.pdb
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.Form1.resources
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.csproj.GenerateResource.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.AssemblyInfoInputs.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.AssemblyInfo.cs
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.csproj.CoreCompileInputs.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\refint\UMSLoginForm.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.pdb
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\UMSLoginForm.genruntimeconfig.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginForm\obj\Debug\net8.0-windows\ref\UMSLoginForm.dll
