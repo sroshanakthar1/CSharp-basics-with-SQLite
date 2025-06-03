@@ -1,0 +1,14 @@
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.AssemblyInfoInputs.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.AssemblyInfo.cs
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.csproj.CoreCompileInputs.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\bin\Debug\net8.0\UMSRoomClass.exe
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\bin\Debug\net8.0\UMSRoomClass.deps.json
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\bin\Debug\net8.0\UMSRoomClass.runtimeconfig.json
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\bin\Debug\net8.0\UMSRoomClass.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\bin\Debug\net8.0\UMSRoomClass.pdb
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\refint\UMSRoomClass.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.pdb
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\UMSRoomClass.genruntimeconfig.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSRoomClass\obj\Debug\net8.0\ref\UMSRoomClass.dll
