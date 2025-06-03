@@ -1,0 +1,14 @@
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.AssemblyInfoInputs.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.AssemblyInfo.cs
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.csproj.CoreCompileInputs.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\bin\Debug\net8.0\UMSLoginCheck.exe
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\bin\Debug\net8.0\UMSLoginCheck.deps.json
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\bin\Debug\net8.0\UMSLoginCheck.runtimeconfig.json
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\bin\Debug\net8.0\UMSLoginCheck.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\bin\Debug\net8.0\UMSLoginCheck.pdb
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\refint\UMSLoginCheck.dll
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.pdb
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\UMSLoginCheck.genruntimeconfig.cache
+Z:\C# Activity\Lab Sheet 8th week\UMSLoginCheck\obj\Debug\net8.0\ref\UMSLoginCheck.dll
